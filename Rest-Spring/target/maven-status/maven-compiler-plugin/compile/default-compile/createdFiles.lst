@@ -1,0 +1,8 @@
+com\naga\spring\rest\WebAppInitializer.class
+com\naga\spring\rest\AppConfig.class
+com\naga\spring\rest\exception\ExceptionHandlingController.class
+com\naga\spring\rest\model\User.class
+com\naga\spring\rest\LoggingHandler.class
+com\naga\spring\rest\exception\ExceptionResponse.class
+com\naga\spring\rest\exception\ResourceNotFoundException.class
+com\naga\spring\rest\UserController.class
